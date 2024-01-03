@@ -1,0 +1,464 @@
+fileFormatVersion: 2
+guid: 3c33161d506f0f745adbf4d79bd49a8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3469993409222620922
+    second: Player_sprite_UltraFish_TheGoodOne_0
+  - first:
+      213: -1595513659034250537
+    second: Player_sprite_UltraFish_TheGoodOne_1
+  - first:
+      213: 1191993090740237852
+    second: Player_sprite_UltraFish_TheGoodOne_2
+  - first:
+      213: -3799277202570988942
+    second: Player_sprite_UltraFish_TheGoodOne_3
+  - first:
+      213: 7641085664554752757
+    second: Player_sprite_UltraFish_TheGoodOne_4
+  - first:
+      213: 1813649011240165187
+    second: Player_sprite_UltraFish_TheGoodOne_5
+  - first:
+      213: 2424421735096508361
+    second: Player_sprite_UltraFish_TheGoodOne_6
+  - first:
+      213: 1717410541271041589
+    second: Player_sprite_UltraFish_TheGoodOne_7
+  - first:
+      213: -7766644059306024993
+    second: Player_sprite_UltraFish_TheGoodOne_8
+  - first:
+      213: -6728802917426134061
+    second: Player_sprite_UltraFish_TheGoodOne_9
+  - first:
+      213: -87388105029872147
+    second: Player_sprite_UltraFish_TheGoodOne_10
+  - first:
+      213: -8439655210368491373
+    second: Player_sprite_UltraFish_TheGoodOne_11
+  - first:
+      213: -3014918353433809643
+    second: Player_sprite_UltraFish_TheGoodOne_12
+  - first:
+      213: -2741699269723991225
+    second: Player_sprite_UltraFish_TheGoodOne_13
+  - first:
+      213: 2235420551897401031
+    second: Player_sprite_UltraFish_TheGoodOne_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 265
+        width: 108
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609c65e016b18dfc0800000000000000
+      internalID: -3469993409222620922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 265
+        width: 108
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2dafec7c89bd9e0800000000000000
+      internalID: -1595513659034250537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 206
+        width: 108
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16ba4c866fca8010800000000000000
+      internalID: 1191993090740237852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 134
+        width: 108
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27234818381464bc0800000000000000
+      internalID: -3799277202570988942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_4
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 68
+        width: 108
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa9d1e7de69a0a60800000000000000
+      internalID: 7641085664554752757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_5
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5
+        width: 108
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f5536aa206b2910800000000000000
+      internalID: 1813649011240165187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 180
+        width: 162
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfd92219b645a120800000000000000
+      internalID: 2424421735096508361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_7
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 141
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536c8fdb9c775d710800000000000000
+      internalID: 1717410541271041589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 140
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf9a24a066573490800000000000000
+      internalID: -7766644059306024993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 132
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d30437b56d7e92a0800000000000000
+      internalID: -6728802917426134061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_10
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 126
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de599124bf889cef0800000000000000
+      internalID: -87388105029872147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 100
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39026372d4250ea80800000000000000
+      internalID: -8439655210368491373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 72
+        width: 102
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51da5c43bbbd826d0800000000000000
+      internalID: -3014918353433809643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_13
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 27
+        width: 129
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74357235a0783f9d0800000000000000
+      internalID: -2741699269723991225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_sprite_UltraFish_TheGoodOne_14
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 107
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6c37fe52fc50f10800000000000000
+      internalID: 2235420551897401031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

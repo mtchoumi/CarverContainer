@@ -1,0 +1,4 @@
+CK_BallBounceScene
+Caroline Killian 2024
+Keyboard, Gamepad
+Game Objective: Jump to hit the ball, scoring one point, and keep it in the air for 30 seconds. If the ball touches the ground you lose a life. Lose all lives and it's game over. Powerups include: A spring that increases your jump height, a heart that grants you one extra HP, an ice cube that reduces the speed of the ball. Lava and spikes will spawn on the ground at a random time, touch it and the game is over. Eventually a fake ball will spawn and touching it will instantly kill you, so pay attention to the real ball.

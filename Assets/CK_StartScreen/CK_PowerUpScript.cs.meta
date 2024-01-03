@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 026f12e9df1f7ce46a335d0bd07f214f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - heart: {fileID: 7369852248600693392, guid: 063912efd0b11f046b85cdadcb261b0a, type: 3}
+  - spring: {instanceID: 0}
+  - spikes: {instanceID: 0}
+  - ballClone: {instanceID: 0}
+  - iceCube: {instanceID: 0}
+  - ball: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

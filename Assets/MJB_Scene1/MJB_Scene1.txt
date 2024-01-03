@@ -1,0 +1,4 @@
+Crowd Control
+Michael Brown 2024
+Keyboard & Mouse
+Use WASD or arrow keys to move and click to shoot. Destroy as many enemies as possible while getting hit as few times as possible.

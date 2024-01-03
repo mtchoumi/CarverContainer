@@ -1,0 +1,4 @@
+Game Name
+Eric LaBuff, 2024
+Keyboard
+Welcome to [Game Name]! For the first half of the game, use the left and right arrows to avoid as many enemies as possible. Any enemies you run into you'll have to fight in the second half of the games. When fighting enemies, use the arrow keys to input the correct directions in the right order to kill it. Have fun!

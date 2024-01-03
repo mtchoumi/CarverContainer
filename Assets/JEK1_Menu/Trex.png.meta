@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: e53e0e7755e532048835c4ade692a10b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8703883150049513469
+    second: Trex_0
+  - first:
+      213: -7152475475078790792
+    second: Trex_1
+  - first:
+      213: 4957271280719800435
+    second: Trex_2
+  - first:
+      213: -2105065095348017860
+    second: Trex_3
+  - first:
+      213: 3562568903041680592
+    second: Trex_4
+  - first:
+      213: 5857382859875837232
+    second: Trex_5
+  - first:
+      213: 3963699714505931367
+    second: Trex_6
+  - first:
+      213: 2031531087482586003
+    second: Trex_7
+  - first:
+      213: 4276830122593783916
+    second: Trex_8
+  - first:
+      213: -1948426756177899046
+    second: Trex_9
+  - first:
+      213: 75510579791354881
+    second: Trex_10
+  - first:
+      213: 7577113285516782185
+    second: Trex_11
+  - first:
+      213: -4601125258118499150
+    second: Trex_12
+  - first:
+      213: 4580311637775961310
+    second: Trex_13
+  - first:
+      213: -1591949091209039391
+    second: Trex_14
+  - first:
+      213: 4257607710062720387
+    second: Trex_15
+  - first:
+      213: -2225365342287698668
+    second: Trex_16
+  - first:
+      213: 8447705901382186007
+    second: Trex_17
+  - first:
+      213: 1133510941406585844
+    second: Trex_18
+  - first:
+      213: -9076763438457955578
+    second: Trex_19
+  - first:
+      213: -7822422348469097281
+    second: Trex_20
+  - first:
+      213: -3713317853583228762
+    second: Trex_21
+  - first:
+      213: -6660494555487148738
+    second: Trex_22
+  - first:
+      213: -95430953651554115
+    second: Trex_23
+  - first:
+      213: -2196280031452787367
+    second: Trex_24
+  - first:
+      213: -6543650437717920684
+    second: Trex_25
+  - first:
+      213: -6929490836282747515
+    second: Trex_26
+  - first:
+      213: -6415946519018968211
+    second: Trex_27
+  - first:
+      213: -111468278295409047
+    second: Trex_28
+  - first:
+      213: -8978082782807864690
+    second: Trex_29
+  - first:
+      213: 1759689204004375240
+    second: Trex_30
+  - first:
+      213: 1517933142730762479
+    second: Trex_31
+  - first:
+      213: 5896579954590849675
+    second: Trex_32
+  - first:
+      213: -9085154567100455574
+    second: Trex_33
+  - first:
+      213: 2624035188667224469
+    second: Trex_34
+  - first:
+      213: 9190953784555586818
+    second: Trex_35
+  - first:
+      213: -4349602364239557025
+    second: Trex_36
+  - first:
+      213: -2922320924275142037
+    second: Trex_37
+  - first:
+      213: -2695524114902999227
+    second: Trex_38
+  - first:
+      213: -7311497425045172680
+    second: Trex_39
+  - first:
+      213: 7041190658810536001
+    second: Trex_40
+  - first:
+      213: 3337028208133998142
+    second: Trex_41
+  - first:
+      213: 3493322907671852178
+    second: Trex_42
+  - first:
+      213: 642878524124526254
+    second: Trex_43
+  - first:
+      213: 7193702028072238862
+    second: Trex_44
+  - first:
+      213: -632338862241914150
+    second: Trex_45
+  - first:
+      213: 67249481309613656
+    second: Trex_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Trex_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 207
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378ac8e07f3cbc440800000000000000
+      internalID: 4957271280719800435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 207
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3525bae27e49c2e0800000000000000
+      internalID: -2105065095348017860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_4
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 205
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d407a1ca89c07130800000000000000
+      internalID: 3562568903041680592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_5
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 205
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0356c546daa994150800000000000000
+      internalID: 5857382859875837232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_6
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 206
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a7177c3e3e10730800000000000000
+      internalID: 3963699714505931367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_7
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 204
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3930093b2c2713c10800000000000000
+      internalID: 2031531087482586003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 207
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6094ed365a5a5b30800000000000000
+      internalID: 4276830122593783916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_9
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 207
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1562f303cc5f4e0800000000000000
+      internalID: -1948426756177899046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_10
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 207
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c5f35e8744c0100800000000000000
+      internalID: 75510579791354881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 204
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96aee1e4360572960800000000000000
+      internalID: 7577113285516782185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 84
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a931f2a3cd4d150800000000000000
+      internalID: 5896579954590849675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_33
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 83
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65a5727e0c0be180800000000000000
+      internalID: -9085154567100455574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Trex_36
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 81
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e4d45e1bb13a3c0800000000000000
+      internalID: -4349602364239557025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

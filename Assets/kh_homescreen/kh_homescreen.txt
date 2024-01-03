@@ -1,0 +1,4 @@
+Cow Hunt
+Kseniya Halavina 2025
+keyboard & mouse
+when you click play, the timer counting down will be a certian color and that color is the color than you have to find the cow and not the sheep. Click on the cow to win.

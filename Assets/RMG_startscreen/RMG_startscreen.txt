@@ -1,0 +1,5 @@
+QuickRide
+Ryan Gensler Class of 2025
+Keyboard
+Using the key controls for your car, players collect coins by driving into them. 
+The goal of the game is to finish with the most coins at the end of 30 seconds, but be careful not to touch the spikes- they slow you down until you finally die.

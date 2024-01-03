@@ -1,0 +1,4 @@
+1. Meteoroid
+2. Landen Gendimenico 2025
+3. Keyboard
+4. Use A and D to move. Dodge falling objects. Cars are in the background and dont hurt the player.

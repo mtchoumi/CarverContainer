@@ -1,0 +1,4 @@
+Trampoline Jump
+Kai Haavik, 2024
+Keyboard only: WASD to flip in the air, Space for starting game/round
+Flip to add to your score; always land on your feet or you break all your bones.

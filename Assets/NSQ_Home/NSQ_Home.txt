@@ -1,0 +1,6 @@
+Game Name: Fishing Finatic
+Author: Nikola Qirjako 2024
+Controls: Keyboard & Mouse
+Instructions: You move a hook around with the arrow keys take catch fish that are swimming across the screen.
+You have to avoid the santa hats that are also moving across the screen because they will lose you the game.
+Collect a certain amount of points from th fish to advance to the next level.

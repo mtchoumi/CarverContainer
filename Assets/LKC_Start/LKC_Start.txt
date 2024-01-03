@@ -1,0 +1,4 @@
+Cup Catch
+Leah Cirrincione, 2024
+Keyboard & Mouse
+Instructions: Catch the ball in the cup in both the first and second scene to win. The first cup will be bigger than the second cup but the ball will be the same size. The ball will spawn at a random posistion at the top of the screen. To move the cup use the left and right arrows. 

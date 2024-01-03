@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5bacc1d0dd59ca04e955d916f8ccaca5
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - warningCircle: {fileID: 3091604070778032696, guid: 0a4cdba237a3d16438449972402c7bdf,
+      type: 3}
+  - spawnObject: {instanceID: 0}
+  - healthPot: {fileID: 9049874068979134753, guid: 6b826462c8b688048a991943488e0f89,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

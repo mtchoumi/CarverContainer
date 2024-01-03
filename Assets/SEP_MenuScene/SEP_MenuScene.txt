@@ -1,0 +1,4 @@
+Pasta Party
+Sophia Pomponio, 2022
+Keyboard
+The player uses the arrow keys displayed on screen to cook pasta in a 3 stage minigame.

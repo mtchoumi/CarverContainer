@@ -1,0 +1,4 @@
+Robot Riot
+Sophie Culbertson, Class of 2024
+Keyboard and Mouse
+Use the mouse to aim and click to shoot. WASD keys control movement and the space bar activates an item if you have one.

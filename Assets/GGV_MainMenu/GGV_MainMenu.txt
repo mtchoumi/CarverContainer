@@ -1,0 +1,4 @@
+Literally Just Dodge
+Gabriel Vidal, Grade 9
+Controls are A, S, D, as explained in the first scene, W to quit won't work until the game is added with the Loading scene.
+Move left to right using both A and D, dodginf the lasers from above and the warning signs on the left and right. Slam down with S to dodge, bouncing higher, once slammed down you can't slam down again until bouncing on the trampoline once more

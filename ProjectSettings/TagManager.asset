@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ground
+  - Ladder
+  - Pickup
+  - Generic 1
+  - Generic 2
+  - Enemy Projectiles
+  - Player Projectiles
+  - Boss
+  - Goal
+  - Health Potion
+  - Death Circle
+  - Buttons
+  - Bounce Projectile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Ground
+  - Projectiles
+  - Generic 1
+  - Generic 2
+  - Generic 3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background 4
+    uniqueID: 2129426017
+    locked: 0
+  - name: Background 3
+    uniqueID: 3138604421
+    locked: 0
+  - name: Background 2
+    uniqueID: 816310269
+    locked: 0
+  - name: Background 1
+    uniqueID: 518381849
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Objects
+    uniqueID: 929965183
+    locked: 0
+  - name: Foreground 1
+    uniqueID: 1137692289
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 1392025897
+    locked: 0
+  - name: UI 1
+    uniqueID: 3285893847
+    locked: 0
+  - name: UI 2
+    uniqueID: 3005952151
+    locked: 0
+  - name: UI 3
+    uniqueID: 2711542651
+    locked: 0

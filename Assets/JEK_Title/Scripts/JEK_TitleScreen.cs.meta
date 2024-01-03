@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8c77b9da029a049bc8de52243a50d2e9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - nameField: {instanceID: 0}
+  - ballToShoot: {fileID: 1374485492114789327, guid: 84643479022b644c98a3e1b5e290ed69,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

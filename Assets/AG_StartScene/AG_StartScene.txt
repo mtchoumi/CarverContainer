@@ -1,0 +1,4 @@
+Gideon's Gold Maze
+Advaitha Gante 2025
+Keyboard Keys
+Use the arrow keys to guide Gideon through the maze. Be sure to avoid the red bombs or else you lose a life. You have 3 lives total. There are obstacles in the maze too.
